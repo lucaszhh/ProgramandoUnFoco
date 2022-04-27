@@ -1,3 +1,2 @@
 # ProgramandoUnFoco
-Primer proyecto de programalo 
-Hola mundo este es mi foco :') <a href="https://lucaszhh.github.io/ProgramandoUnFoco/" target="_blank" >Link de la página</a>
+Primer proyecto en programalo es un simple foco que cambia de apagado a encendido con un boton <a href="https://lucaszhh.github.io/ProgramandoUnFoco/" target="_blank" >Link de la página</a>
